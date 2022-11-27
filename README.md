@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in data, coding, chess, my family
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on some startup ideas
 - 📫 How to reach me: bkmy43@googlemail.com
